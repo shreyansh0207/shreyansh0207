@@ -1,4 +1,4 @@
-# Shreyansh
+# Shreyansh Shukla 
 ### AI Agents Engineer · Full Stack Developer · Data Analytics
 
 [LinkedIn](https://www.linkedin.com/in/shreyansh-shukla-a78136307/) · [GitHub](https://github.com/shreyansh0207) · [Email](mailto:shuklashreyansh0207@gmail.com) · [Portfolio](https://shreyansh-codes.vercel.app/)
@@ -18,32 +18,29 @@ Open to full-time roles in Full Stack Development · AI/ML
 
 ## Projects
 
-### 🤖 AI & Agents
+### 🤖 AI & Agents (3)
 | Project | What it does | Stack |
 |---|---|---|
 | **Weather Agent** | AI agent that fetches and reasons over live weather data using tool-calling | Python · Google ADK |
 | **Interview.AI Platform** | AI-powered interview preparation platform with skill assessment | TypeScript · React.js · AI |
-| **FITNESS COACH with AI** | AI-powered fitness coaching with personalized workout plans | TypeScript · React.js · AI |
 | **Legal Services Platform** | AI-powered legal consultation and chat support | TypeScript · Next.js · AI |
 
-### 📊 Data Analytics
+### 📊 Data Analytics (2)
 | Project | What it does | Stack |
 |---|---|---|
-| **Weather Analytics Dashboard** | Live weather dashboard with forecast trends, AQI breakdown, sunrise/sunset, and rain probability — data fetched from WeatherAPI and cleaned for visualization | Power BI · WeatherAPI (API Integration) |
-| **Data Professional Survey Breakdown** | Survey analysis dashboard showing salary trends by job title/gender, satisfaction scores, and difficulty-to-break-in metrics across countries | Power BI · CSV Data Cleaning |
+| **Weather Analytics Dashboard** | Live weather dashboard with forecast trends, AQI breakdown, and rain probability — data fetched from WeatherAPI and cleaned for visualization | Power BI · WeatherAPI |
+| **Data Professional Survey Breakdown** | Survey analysis dashboard showing salary trends, satisfaction scores, and career difficulty metrics across countries | Power BI · CSV Data Cleaning |
 
-### 💻 Full Stack
+### 💻 Full Stack (2)
 | Project | What it does | Stack |
 |---|---|---|
 | **AuditTrace** | DPDPA compliance SaaS platform | React · Node.js · Supabase |
 | **Real Estate Management Platform** | Property buying/selling with payment integration | TypeScript · Express.js · JWT |
-| **Mental Health Support Platform** | Supportive platform for mental health resources | React.js · Node.js · MongoDB |
 
-### 🎨 Frontend
+### 🎨 Frontend (1)
 | Project | What it does | Stack |
 |---|---|---|
 | **AtlasCountries Explorer** | Interactive country info app with search/filter | React · REST API |
-| **TechFit Fitness Platform** | Responsive fitness platform with dynamic content | HTML · CSS · JavaScript |
 
 ## Experience
 
