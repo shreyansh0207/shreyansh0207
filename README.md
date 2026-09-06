@@ -66,6 +66,6 @@ Open to full-time roles in Full Stack Development · AI/ML
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ## GitHub Activity
-(https://github-readme-stats.vercel.app/api?username=shreyansh0207&show_icons=true&theme=radical)
-(https://github-readme-streak-stats.herokuapp.com/?user=shreyansh0207&theme=radical)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh0207&layout=compact&theme=radical)
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh0207&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyansh0207&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh0207&layout=compact&theme=radical)
