@@ -18,17 +18,32 @@ Open to full-time roles in Full Stack Development · AI/ML
 
 ## Projects
 
-| Project | What it does | Area | Stack |
-|---|---|---|---|
-| **AuditTrace** | DPDPA compliance SaaS platform — manages data protection compliance workflows | Full Stack | React (Frontend) · Node.js (Backend) · Supabase (DB) |
-| **Real Estate Management Platform** | Platform for buying/selling properties with payment integration and detailed listings | Full Stack | TypeScript (Frontend) · Express.js (Backend) · JWT (Auth) |
-| **Weather Agent** | AI agent that fetches and reasons over live weather data using tool-calling | AI Agents | Python · Google ADK |
-| **Interview.AI Platform** | AI-powered interview preparation platform with skill assessment | Full Stack | TypeScript (Frontend) · React.js · AI Integration |
-| **Legal Services Platform** | AI-powered legal services platform with consultation and chat support | Full Stack | TypeScript (Frontend) · Next.js · AI Integration |
-| **Mental Health Support Platform** | AI-powered supportive platform for mental health resources and community wellness | Full Stack | React.js (Frontend) · Node.js (Backend) · MongoDB (DB) |
-| **FITNESS COACH with AI** | AI-powered fitness coaching platform with personalized workout plans and health tracking | Full Stack | TypeScript (Frontend) · React.js · AI Integration |
-| **AtlasCountries Explorer** | Interactive app displaying country info with search, sorting, and filtering | Frontend | React · REST API · Express |
-| **TechFit Fitness Platform** | Responsive fitness platform with exercise categories and dynamic content loading | Frontend | HTML · CSS · JavaScript |
+### 🤖 AI & Agents
+| Project | What it does | Stack |
+|---|---|---|
+| **Weather Agent** | AI agent that fetches and reasons over live weather data using tool-calling | Python · Google ADK |
+| **Interview.AI Platform** | AI-powered interview preparation platform with skill assessment | TypeScript · React.js · AI |
+| **FITNESS COACH with AI** | AI-powered fitness coaching with personalized workout plans | TypeScript · React.js · AI |
+| **Legal Services Platform** | AI-powered legal consultation and chat support | TypeScript · Next.js · AI |
+
+### 📊 Data Analytics
+| Project | What it does | Stack |
+|---|---|---|
+| **Weather Analytics Dashboard** | Live weather dashboard with forecast trends, AQI breakdown, sunrise/sunset, and rain probability — data fetched from WeatherAPI and cleaned for visualization | Power BI · WeatherAPI (API Integration) |
+| **Data Professional Survey Breakdown** | Survey analysis dashboard showing salary trends by job title/gender, satisfaction scores, and difficulty-to-break-in metrics across countries | Power BI · CSV Data Cleaning |
+
+### 💻 Full Stack
+| Project | What it does | Stack |
+|---|---|---|
+| **AuditTrace** | DPDPA compliance SaaS platform | React · Node.js · Supabase |
+| **Real Estate Management Platform** | Property buying/selling with payment integration | TypeScript · Express.js · JWT |
+| **Mental Health Support Platform** | Supportive platform for mental health resources | React.js · Node.js · MongoDB |
+
+### 🎨 Frontend
+| Project | What it does | Stack |
+|---|---|---|
+| **AtlasCountries Explorer** | Interactive country info app with search/filter | React · REST API |
+| **TechFit Fitness Platform** | Responsive fitness platform with dynamic content | HTML · CSS · JavaScript |
 
 ## Experience
 
@@ -41,6 +56,7 @@ Open to full-time roles in Full Stack Development · AI/ML
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
@@ -50,6 +66,6 @@ Open to full-time roles in Full Stack Development · AI/ML
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ## GitHub Activity
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh0207&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyansh0207&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh0207&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=shreyansh0207&show_icons=true&theme=radical)
+(https://github-readme-streak-stats.herokuapp.com/?user=shreyansh0207&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh0207&layout=compact&theme=radical)
