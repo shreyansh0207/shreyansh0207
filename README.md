@@ -11,7 +11,7 @@ Focused on building AI agents, full-stack SaaS products, and data-driven systems
 📜 Postman Student Expert Certified
 📜 Claude 101 Certified
 
-Open to full-time roles in Full Stack Development · AI/ML
+🚀 Open to full-time roles in **Full Stack Development** · **Data Analytics**
 
 ## Open Source
 **build-with-ai** — Contributed a cross-platform CLI test suite improvement ([PR #22](https://github.com/Kaap10/build-with-ai/pull/22))
