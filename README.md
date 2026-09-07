@@ -15,6 +15,7 @@ Focused on building AI agents, full-stack SaaS products, and data-driven systems
 
 ## Open Source
 **build-with-ai** — Merged PR fixing/adding --version CLI test ([PR #22](https://github.com/Kaap10/build-with-ai/pull/22)) ✅
+context key lookup test ([#25](https://github.com/Kaap10/build-with-ai/pull/25)) ✅
 
 ## Projects
 
