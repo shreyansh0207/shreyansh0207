@@ -15,7 +15,9 @@ Focused on building AI agents, full-stack SaaS products, and data-driven systems
 
 ## Open Source
 **build-with-ai** — Merged PR fixing/adding --version CLI test ([PR #22](https://github.com/Kaap10/build-with-ai/pull/22)) ✅
-context key lookup test ([PR #25](https://github.com/Kaap10/build-with-ai/pull/25)) ✅
+**build-with-ai** - context key lookup test ([PR #25](https://github.com/Kaap10/build-with-ai/pull/25)) ✅
+**Ai-Pulse** — Merged PR adding public event ingestion API validation tests ([PR #16](https://github.com/Anadi99/Ai-Pulse/pull/16)) ✅
+
 
 ## Projects
 
