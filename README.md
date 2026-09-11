@@ -22,9 +22,7 @@ Focused on building AI agents, full-stack SaaS products, and data-driven systems
 
 ## Experience
 
-RapidClaims.ai — Full Stack Developer Intern
-SkipperX — Analyst (Founding Employee)
-
+RapidClaims.ai — Full Stack Developer Intern                                                  SkipperX — Analyst (Founding Employee)                                      
 ## Projects
 
 ### 🤖 AI & Agents (3)
