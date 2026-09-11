@@ -14,9 +14,11 @@ Focused on building AI agents, full-stack SaaS products, and data-driven systems
 🚀 Open to full-time roles in **Full Stack Development** · **Data Analytics**
 
 ## Open Source
+
 **build-with-ai** — Merged PR fixing/adding --version CLI test ([PR #22](https://github.com/Kaap10/build-with-ai/pull/22)) ✅
-**build-with-ai** - context key lookup test ([PR #25](https://github.com/Kaap10/build-with-ai/pull/25)) ✅
+**build-with-ai** — Merged PR adding context key lookup test ([PR #25](https://github.com/Kaap10/build-with-ai/pull/25)) ✅
 **Ai-Pulse** — Merged PR adding public event ingestion API validation tests ([PR #16](https://github.com/Anadi99/Ai-Pulse/pull/16)) ✅
+**smoothAPI** — Merged PR implementing configurable jitter strategies (full, equal, decorrelated, none) for backoff calculation ([PR #53](https://github.com/AryanSharma48/smoothAPI/pull/53)) ✅
 
 
 ## Projects
