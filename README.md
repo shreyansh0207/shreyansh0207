@@ -20,6 +20,10 @@ Focused on building AI agents, full-stack SaaS products, and data-driven systems
 **Ai-Pulse** — Merged PR adding public event ingestion API validation tests ([PR #16](https://github.com/Anadi99/Ai-Pulse/pull/16)) ✅
 **smoothAPI** — Merged PR implementing configurable jitter strategies (full, equal, decorrelated, none) for backoff calculation ([PR #53](https://github.com/AryanSharma48/smoothAPI/pull/53)) ✅
 
+## Experience
+
+RapidClaims.ai — Full Stack Developer Intern
+SkipperX — Analyst (Founding Employee)
 
 ## Projects
 
